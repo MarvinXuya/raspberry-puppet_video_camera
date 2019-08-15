@@ -1,0 +1,14 @@
+{
+  "name": "raspberry-puppet_video_camera",
+  "version": "0.1.0",
+  "author": "MarvinXuya",
+  "summary": "Puppet module to stream lan cameras on raspberry pi",
+  "license": "Apache 2.0",
+  "source": "https://github.com/MarvinXuya/raspberry-puppet_video_camera.git",
+  "project_page": "https://github.com/MarvinXuya/raspberry-puppet_video_camera",
+  "issues_url": "https://github.com/MarvinXuya/raspberry-puppet_video_camera/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
